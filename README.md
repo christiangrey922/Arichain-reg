@@ -58,7 +58,7 @@ This bot automates the process of creating accounts and using referral codes for
 
 ## Stay Connected
 
-- Telegram : [Telegram](https://t.me/christiangrey922)
+- Telegram : [Telegram](https://t.me/xamdepin)
 
 ## Donation
 
